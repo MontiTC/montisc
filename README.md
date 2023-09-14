@@ -23,7 +23,7 @@ El NeoPixel LED Ring WS2812 es un dispositivo de iluminación LED popular y vers
 - **Control Individual:** Cada LED se puede configurar para mostrar un color específico.
 - **Efectos de Animación:** Se pueden crear efectos de iluminación dinámicos, como secuencias de colores, efectos de respiración y más.
 - **Brillo Ajustable:** Control total sobre la intensidad de la luz de cada LED.
-
+![NeoPixel LED RING]("led1.jpg")
 ---
 
 ## Aplicaciones Comunes
