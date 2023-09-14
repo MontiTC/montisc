@@ -2,66 +2,59 @@
 # Montijo Perez Jose Alejandro 20212676
 # Presentación del HC-SR04 UltraSonic Distance Sensor
 
+# Presentación del NeoPixel LED Ring WS2812
+
 ## Introducción
 
-El HC-SR04 es un sensor ultrasónico de distancia ampliamente utilizado en proyectos electrónicos y robóticos para medir distancias con precisión. Esta presentación te introducirá a sus características y aplicaciones.
+El NeoPixel LED Ring WS2812 es un dispositivo de iluminación LED popular y versátil que utiliza tecnología WS2812, también conocida como Neopixel, para proporcionar efectos de iluminación personalizables. En esta presentación, exploraremos sus características y aplicaciones.
 
 ---
 
-## Principio de Funcionamiento
+## Características Principales
 
-- **Emisión de Ondas Ultrasónicas:** El HC-SR04 emite pulsos ultrasónicos hacia un objeto.
-- **Recepción del Eco:** El sensor detecta el eco de las ondas reflejadas por el objeto.
-- **Cálculo de Distancia:** Utiliza la velocidad del sonido para calcular la distancia al objeto.
-
----
-
-## Especificaciones Técnicas
-
-- **Rango de Medición:** 2 cm a 400 cm (aproximadamente).
-- **Voltaje de Funcionamiento:** 5V.
-- **Ángulo de Apertura:** 15 grados.
-- **Precisión:** Milímetros.
-- **Interfaz:** Pines VCC, Trig, Echo y GND.
+- **Tecnología WS2812:** Cada LED es controlable individualmente y puede mostrar una amplia gama de colores.
+- **Tamaño y Configuración:** Disponible en varios tamaños, desde pequeños anillos hasta matrices más grandes.
+- **Facilidad de Conexión:** Se conecta en cadena, lo que permite la creación de efectos de iluminación secuenciales.
+- **Compatibilidad con Microcontroladores:** Funciona bien con plataformas como Arduino, Raspberry Pi y otros.
 
 ---
 
-## Conexiones y Configuración
+## Colores Personalizables
 
-1. Conecta VCC a 5V, GND a tierra y Trig y Echo a pines GPIO en tu microcontrolador.
-2. Envía un pulso corto al pin Trig para activar la emisión ultrasónica.
-3. Mide el tiempo que tarda en recibir el eco en el pin Echo.
-4. Calcula la distancia utilizando la fórmula: Distancia = Velocidad x Tiempo.
+- **Control Individual:** Cada LED se puede configurar para mostrar un color específico.
+- **Efectos de Animación:** Se pueden crear efectos de iluminación dinámicos, como secuencias de colores, efectos de respiración y más.
+- **Brillo Ajustable:** Control total sobre la intensidad de la luz de cada LED.
 
 ---
 
 ## Aplicaciones Comunes
 
-- **Detección de Obstáculos:** En robots y vehículos autónomos.
-- **Alarmas de Proximidad:** Para alertar sobre la cercanía de objetos.
-- **Domótica:** Para medir distancias entre objetos en proyectos de automatización.
-- **Control de Nivel de Líquidos:** En tanques y recipientes.
-- **Seguridad:** Detectar intrusos o personas cercanas.
+- **Iluminación Ambiental:** Creación de efectos de iluminación ambiental en proyectos de decoración y diseño.
+- **Indicadores Visuales:** Uso como indicadores visuales en proyectos electrónicos.
+- **Arte Interactivo:** Integración en instalaciones de arte interactivo.
+- **Iluminación de Dispositivos:** Incorporación en trajes, cascos, gafas y más.
 
 ---
 
-## Consideraciones de Uso
+## Programación y Control
 
-- **Variaciones de Velocidad del Sonido:** La velocidad del sonido puede cambiar con la temperatura y la humedad.
-- **Evitar Reflejos Múltiples:** Para mediciones precisas, evita superficies reflectantes o ángulos complicados.
-- **Superficies Absorbentes:** No funciona bien en superficies que absorben el sonido, como espuma o tela.
+- **Librerías y Ejemplos:** Amplia variedad de librerías y ejemplos de código disponibles para diferentes plataformas.
+- **Control de Color:** Los LEDs pueden controlarse mediante código para mostrar patrones y efectos específicos.
+- **Interfaces de Comunicación:** Se puede controlar mediante interfaces como I2C, SPI y UART.
 
 ---
 
-## Librerías y Ejemplos de Código
+## Consideraciones de Alimentación
 
-- Para proyectos con Arduino o Raspberry Pi, existen librerías y ejemplos de código en línea que facilitan su integración.
+- **Requisitos de Energía:** Los NeoPixel LED Rings requieren una fuente de alimentación adecuada, ya que el brillo y la cantidad de LEDs pueden consumir una cantidad significativa de energía.
+- **Tensiones de Operación:** La mayoría funciona con voltajes de 5V, pero se deben verificar las especificaciones del modelo específico.
 
 ---
 
 ## Conclusión
 
-El HC-SR04 UltraSonic Distance Sensor es una herramienta versátil y asequible para medir distancias con precisión en proyectos electrónicos y robóticos. Su principio de funcionamiento basado en ultrasonidos lo hace adecuado para una amplia gama de aplicaciones.
+El NeoPixel LED Ring WS2812 es una poderosa herramienta para la creación de efectos de iluminación personalizados y programables en una amplia variedad de proyectos. Su facilidad de uso y control individual de cada LED lo hacen ideal para proyectos de arte, decoración y electrónica.
 
 ¡Gracias por tu atención!
+
 
