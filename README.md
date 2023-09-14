@@ -1,6 +1,5 @@
 # montisc
 # Montijo Perez Jose Alejandro 20212676
-# Presentación del HC-SR04 UltraSonic Distance Sensor
 
 # Presentación del NeoPixel LED Ring WS2812
 
