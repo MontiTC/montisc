@@ -1,3 +1,11 @@
+```html
+<style>
+  body {
+    background-color: #292929; /* Cambia el valor hexadecimal por el color de fondo que desees */
+    color: #F4F4F4; /* Cambia el valor hexadecimal por el color del texto que desees */
+  }
+</style>
+```
 # montisc
 # Montijo Perez Jose Alejandro 20212676
 
@@ -23,7 +31,8 @@ El NeoPixel LED Ring WS2812 es un dispositivo de iluminación LED popular y vers
 - **Control Individual:** Cada LED se puede configurar para mostrar un color específico.
 - **Efectos de Animación:** Se pueden crear efectos de iluminación dinámicos, como secuencias de colores, efectos de respiración y más.
 - **Brillo Ajustable:** Control total sobre la intensidad de la luz de cada LED.
-![NeoPixel LED RING]("led1.jpg")
+
+-![NeoPixel LED RING](led1.jpg)
 ---
 
 ## Aplicaciones Comunes
