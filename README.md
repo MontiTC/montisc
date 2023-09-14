@@ -1,10 +1,5 @@
 ```html
-<style>
-  body {
-    background-color: #292929; /* Cambia el valor hexadecimal por el color de fondo que desees */
-    color: #F4F4F4; /* Cambia el valor hexadecimal por el color del texto que desees */
-  }
-</style>
+  <link rel="stylesheet" type="text/css" href="estilo.css">
 ```
 # montisc
 # Montijo Perez Jose Alejandro 20212676
