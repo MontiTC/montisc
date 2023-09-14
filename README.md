@@ -1,10 +1,3 @@
- 
-```
-<!DOCTYPE html>
-<html>
-<link rel="stylesheet" type="text/css" href="estilo.css">
-</html>
-```
 
 # montisc
 # Montijo Perez Jose Alejandro 20212676
