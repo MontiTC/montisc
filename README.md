@@ -49,7 +49,7 @@ El NeoPixel LED Ring WS2812 es un dispositivo de iluminación LED popular y vers
 - **Librerías y Ejemplos:** Amplia variedad de librerías y ejemplos de código disponibles para diferentes plataformas.
 - **Control de Color:** Los LEDs pueden controlarse mediante código para mostrar patrones y efectos específicos.
 - **Interfaces de Comunicación:** Se puede controlar mediante interfaces como I2C, SPI y UART.
-- ![NeoPixel LED RING](led2.jpg)
+- ![NeoPixel LED RING](led2.png)
 
 ---
 
