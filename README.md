@@ -4,8 +4,7 @@
 
 ## Indice
 
-Lista no ordenada:
+Practicas:
 - [Led NeoPixel](Neopixel.md)
 - [Hola Mundo y Hora Internet](PracticaMundo.md)
-- Elemento 3
 
