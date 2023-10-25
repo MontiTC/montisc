@@ -1,5 +1,5 @@
 #Codigo en Python
-'''
+```
 import json
 import network
 import time
@@ -95,8 +95,4 @@ button_pin.irq(trigger=machine.Pin.IRQ_FALLING, handler=button_pressed)
 # El programa principal sigue ejecutándose
 while True:
     pass
-
-
-
-
-'''
+```
