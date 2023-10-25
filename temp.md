@@ -77,4 +77,7 @@ while True:
     oled.show() #Muestra el blit y el texto en el oled
     utime.sleep(1) #Delay para ver cambios
     oled.fill(0) #Limpia el oled
+
+```
+![Animacion de temperatura](temperatura.mp4)
 ```
