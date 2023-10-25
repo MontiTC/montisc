@@ -1,5 +1,14 @@
 #Codigo en Python
 ```
+"""
+Instituto Tecnologico de Tijuana
+Programador: Montijo Perez Jose Alejandro
+No.Control: 20212676
+Raspberry pi W
+Materia: Sistemas Programables
+Practica: Prompt con ChatGPT api mediante un boton con un oled display
+
+"""
 import json
 import network
 import time
