@@ -1,6 +1,16 @@
 #Codigo Python para encender led a traves de Bluetooth
 ##main.py
 ```
+"""
+Instituto Tecnologico de Tijuana
+Programador: Montijo Perez Jose Alejandro
+No.Control: 20212676
+Raspberry pi W
+Materia: Sistemas Programables
+Practica: Usar Bluetooth para prender Led de la Picow
+
+"""
+
 # Import necessary modules
 from machine import Pin 
 import bluetooth
