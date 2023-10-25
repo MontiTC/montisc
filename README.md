@@ -9,5 +9,6 @@ Practicas:
 - [Hola Mundo y Hora Internet](PracticaMundo.md)
 - [Chat gpt con oled y boton](gpt.md)
 - [Sensor de temperatura](temp.md)
-- [Embedded web server](web.md)  
+- [Embedded web server](web.md)
+- [Bluetooth](btooth.md)
 
