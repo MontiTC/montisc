@@ -1,0 +1,28 @@
+echo ssh -i llave.pem ubuntu@ip
+sudo apt install nodejs 
+
+servicios -> cloud9 
+
+cd .ssh
+  la
+  ll
+  vim authorized_keys
+
+
+Tecla o - cambia a modo insert
+enter
+bton derechp para pegar la llave copiada de Cloud9
+
+precionar esc 
+:wq
+:q
+
+  cat authorized_keys
+
+En cloud9 poner User: ubuntu e IP
+
+Dar clic en abrir y se comenzará a instalar
+
+Plug in ssh en visualCode
+Tener instalado pip y python pip
+
